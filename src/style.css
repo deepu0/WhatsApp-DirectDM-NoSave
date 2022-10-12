@@ -16,6 +16,10 @@ p {
   margin-right: auto;
   margin-left: auto;
 }
+.helper-container{
+  display: flex;
+  flex-direction: column;
+}
 .container {
   margin-top: 5rem;
   max-width: 100%;
@@ -32,6 +36,10 @@ p {
 .helper-text {
   color: grey;
   padding: 2px;
+}
+.error {
+  color:red;
+  text-align: left;
 }
 input {
   width: 100%;
