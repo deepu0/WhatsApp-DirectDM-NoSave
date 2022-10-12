@@ -33,7 +33,7 @@ export default function App() {
     <div className="box">
       <section className="container">
         <div>
-          <h1>Direct Message(WhatsApp 🇮🇳)</h1>
+          <h1>Direct Message(WhatsApp)</h1>
         </div>
         <div className="input-container">
           <input
