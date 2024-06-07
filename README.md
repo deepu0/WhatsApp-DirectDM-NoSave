@@ -14,7 +14,7 @@ Direct WhatsApp Message is a Progressive Web App (PWA) that allows users to send
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/direct-whatsapp-message.git
+    git clone https://github.com/deepu0/WhatsApp-DirectDM-NoSave.git
     cd direct-whatsapp-message
     ```
 2. Install dependencies:
